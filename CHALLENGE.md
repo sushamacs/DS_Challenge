@@ -6,7 +6,7 @@ You randomly draw 10.
 What is the probability that 2 are blue?
 
 Answer: The probability of getting a blue ball can be obtained from:
-P(blue) = nCkpk(1-p)(n-k) 
+P(blue) = <sup>n</sup>C<sub>k</sub>p<sup>k</sup>(1-p)<sup>(n-k)</sup> 
 
 Here, n = 10 randomly drawn balls 
 k=2 to find the probability of finding 2 out of 10 drawn balls 
@@ -24,12 +24,12 @@ What is the probability it is spam?
 
 Answer: We know that,
 Probability of spam mail = 700/1000 = 0.7
-Probability of having �free� in given spam mail = 300/700 = 0.4286
-Probability of having �credit� in given spam mail = 90/700 = 0.1286
-Probability of having �free� and �credit� given spam = 0.4286*0.1286 �(1)
-Probability of having �free� = 400/1000 = 0.4
-Probability of having �credit� = 100/1000 = 0.1
-Probability of having �free� and �credit� = 0.4*0.1 �(2)
+Probability of having free in given spam mail = 300/700 = 0.4286
+Probability of having credit in given spam mail = 90/700 = 0.1286
+Probability of having free and credit given spam = 0.4286*0.1286 �(1)
+Probability of having free = 400/1000 = 0.4
+Probability of having credit = 100/1000 = 0.1
+Probability of having free and credit = 0.4*0.1 �(2)
 
 To find probability of credit given that mail contains �free� and �credit�:
 
